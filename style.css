@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-image: linear-gradient(green, rgba(166, 255, 0, 0.966) );
+    
+
+}
+
+li:hover{
+ background-image: linear-gradient(white, yellow);
+
+}
+ 
+body{
+  background-image: linear-gradient(yellow, green);
+   height: 600px
+}
+
+div{
+ background-color: white;
+ 
+}
+
+h1:hover{
+  color: red;
+
+}
+div:hover{
+   border: 5px solid black;
+   background-color: aquamarine;
+   border-radius: 10px;
+}
+
+.gmi1{
+ width: 200px;
+ height: 200px;
+ background-color: aquamarine;
+ margin-left: 30px;
+
+}
+
+.gmi2{
+  width: 200px;
+  height: 200px;
+  
+  margin-left: 30px;
+
+}
+
+.gmi3{
+  width: 300px;
+  margin-left: 30px;
+
+}
+
+section{
+   display: flex;
+  
+  
+}
+
+li{
+  color: black;
+
+}
+
+.link-header{
+   text-decoration: none;
+    color: black;
+   background-color: goldenrod;
+   border: solid 3px goldenrod;
+   border-radius: 9px;
+   
+}
