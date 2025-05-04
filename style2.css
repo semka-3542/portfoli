@@ -1,0 +1,83 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(yellow, green);
+    height: 800px;
+    
+}
+
+.tlgrm{
+  border: 3px solid rgb(12, 155, 202);
+  border-radius: 7px;
+  margin-left: 150px ;
+}
+
+h1{
+  text-align: center;
+  border: dashed 10px rgb(93, 150, 8);
+  
+  
+}
+
+.tlgrm:hover{
+  border: dashed 8px rgb(93, 150, 8);
+
+}
+
+h1:hover{
+  border:  10px solid rgb(12, 155, 202);
+  border-radius: 20px;
+}
+
+.text-big{
+  border-left: double 7px blue ;
+
+}
+
+li:hover{
+    background-image: linear-gradient(white, aquamarine);
+
+}
+
+.link-text:hover{
+  border: 3px solid red;
+  border-radius: 8px;
+}
+
+.link-header{
+  text-decoration: none;
+  background-color: gold;
+  border: solid 3px goldenrod;
+  border-radius: 7px;
+  margin-left: 50px;
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+.text-big:hover{
+  border: 7px dotted rgb(14, 212, 212);
+}
+
+.link-text{
+ text-decoration: none;
+ color: rgb(235, 0, 0)
+}
+
+.link-header:hover{
+  background-color: blue;
+  color: aqua;
+  border: solid 3px blue;
+}
+
+.text-big{
+   font-size: 40px;
+
+}
+
+
+
+
+
+li{
+  font-size: 26px;
+
+}
